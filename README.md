@@ -32,3 +32,9 @@
 </p>
 
 ## Projetos
+
+[🏛️ Blog Museu Nacional - Angular ](https://github.com/7iagoCabral/blog-museum-angular)<br>
+[✅ BuzzFeed - Angular ](https://github.com/7iagoCabral/angular_buzzfeed_quizz)<br>
+[🐦 PokeStore - React, Sass, Redux](https://github.com/7iagoCabral/pokestore)<br>
+[❌ Jogo da velha - javascript](https://github.com/7iagoCabral/tic-tac-toe-Jogo-da-velha-)<br>
+[🚀 NASA - Foto Astronômica do Dia - React, Tailwindcss, Api rest ](https://github.com/7iagoCabral/nasa-apod-Imagem-Astronomica-do-Dia)<br>
