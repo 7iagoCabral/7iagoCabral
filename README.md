@@ -1,4 +1,4 @@
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/user-attachments/assets/905f3529-52cf-461b-b932-dc4b7c604436" min-width="400px" max-width="400px" width="400px" style="border-radius: 6px;" align="right">
 
 <p align="left"> 
   Olá eu sou <b>Tiago</b> <i>Desenvolvedor de software</i> em desenvolvimento!😁
