@@ -1,20 +1,19 @@
 <img src="https://github.com/user-attachments/assets/905f3529-52cf-461b-b932-dc4b7c604436" min-width="400px" max-width="400px" width="400px" style="border-radius: 6px;" align="right">
 
 <p align="left"> 
-  Olá eu sou <b>Tiago</b> <i>Desenvolvedor de software</i> em desenvolvimento!😁
-  Sem mais trocadilhos irei contar um pouco sobre mim.<br>
-  Um jovem estudante de <strong>engenharia de software</strong> focado na area de front-end. Atualmente acumulo conhecimento em React, React-Native, Angular, Styled-components, Sass, Tailwindcss, Nodejs, Express, TypeScript, Redux, Jest e 🚀
+  Olá eu sou <b>Tiago</b> <i>Desenvolvedor de software</i> em formação!😁
+  Sou um jovem estudante de <strong>Engenharia de Software</strong> focado na área de front-end. Atualmente, acumulo conhecimento em React, React Native, Angular, Styled-components, Sass, Tailwind CSS, Node.js, Express, TypeScript, Redux, Jest, React Query, Zod e ...
 </p>
 
 <p align="left">
   <h3>💻 Por que a Tecnologia?</h3>
-  <p>Acretido que posso impactar as pessoas com a tecnologia. Sempre fui apaixonado por esta área e em tudo que fiz até agora penso em ideias de melhoria com o uso da tecnologia. </p>
+  <p>Acredito que posso impactar as pessoas com a tecnologia. Sempre fui apaixonado por essa área e busco enxergar como a tecnologia pode melhorar processos, experiências e a rotina.</p>
 </p>
 
 <p align="left">
    <h3>🚀 Por que front-end?</h3>
   <p>
-    Sou uma pessoa muito visual e me agrada muito transformar código em intefaces que seja incrivelmente intuitiva e acessivel. É onde o usuário final vai acessar
+    Sou uma pessoa muito visual e me agrada transformar código em interfaces incrivelmente intuitivas e acessíveis. É onde o usuário final vai interagir.
   </p>
 </p>
 
